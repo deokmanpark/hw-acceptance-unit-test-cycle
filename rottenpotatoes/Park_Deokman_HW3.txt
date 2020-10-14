@@ -1,2 +1,3 @@
 https://github.com/deokmanpark/hw-acceptance-unit-test-cycle/tree/master/rottenpotatoes
 https://github.com/deokmanpark/hw-acceptance-unit-test-cycle/blob/master/rottenpotatoes/Cucumber_Logs.txt
+https://github.com/deokmanpark/hw-acceptance-unit-test-cycle/blob/master/rottenpotatoes/Rspec_Logs.txt
